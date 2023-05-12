@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">lab2</string>
+    <string name="avatar_description">Описание аватара</string>
+    <string name="full_name_placeholder">ФИО</string>
+    <string name="year_placeholder">Год</string>
+    <string name="description_placeholder">Описание</string>
+    <string name="gender_placeholder">Гендер</string>
+    <string name="like_button_description">Описание кнопки лайка</string>
+
+</resources>
